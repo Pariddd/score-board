@@ -12,7 +12,7 @@ A simple and responsive web-based scoreboard application built with Bootstrap 5.
 
 ## 🔗 Live Demo
 
-👉 [Coba Sekarang](https://username.github.io/score-board/)
+👉 [Coba Sekarang](https://Pariddd.github.io/score-board/)
 
 ## 💻 Built With
 
